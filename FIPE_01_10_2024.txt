@@ -1,0 +1,175 @@
+vehicleType	price	brand	model	modelYear	fuel	codeFipe	referenceMonth	fuelAcronym
+3	R$ 336.573,00	DAF	XF 105 FTS 460 6x2 (diesel)(E5)	2017	Diesel	530002-9	outubro de 2024	D
+3	R$ 373.641,00	MERCEDES-BENZ	Axor 3344 S 6x4 2p (diesel) (E5)	2019	Diesel	509271-0	outubro de 2024	D
+3	R$ 278.503,00	MERCEDES-BENZ	Atego 1726 4x4 2p (diesel)(E5)	2019	Diesel	509304-0	outubro de 2024	D
+3	R$ 80.529,00	VOLVO	VM-23 210/ VM 210 6x2 2p (diesel)	2006	Diesel	516074-0	outubro de 2024	D
+3	R$ 498.583,00	VOLVO	FH-460 GLOBETROTTER 6x2 2p (diesel) (E5)	2019	Diesel	516155-0	outubro de 2024	D
+3	R$ 336.573,00	DAF	XF 105 FTS 460 6x2 (diesel)(E5)	2017	Diesel	530002-9	outubro de 2024	D
+3	R$ 373.641,00	MERCEDES-BENZ	Axor 3344 S 6x4 2p (diesel) (E5)	2019	Diesel	509271-0	outubro de 2024	D
+3	R$ 278.503,00	MERCEDES-BENZ	Atego 1726 4x4 2p (diesel)(E5)	2019	Diesel	509304-0	outubro de 2024	D
+3	R$ 80.529,00	VOLVO	VM-23 210/ VM 210 6x2 2p (diesel)	2006	Diesel	516074-0	outubro de 2024	D
+3	R$ 498.583,00	VOLVO	FH-460 GLOBETROTTER 6x2 2p (diesel) (E5)	2019	Diesel	516155-0	outubro de 2024	D
+3	R$ 98.422,00	IVECO	EUROCARGO/ATTACK 170-E22 2p (diesel)	2010	Diesel	506018-4	outubro de 2024	D
+3	R$ 98.472,00	IVECO	EUROCARGO 170-E22 3-Eixos 2p (diesel)	2010	Diesel	506019-2	outubro de 2024	D
+3	R$ 236.051,00	VOLVO	FH-420 4x2 2p (diesel) (E5)	2013	Diesel	516160-6	outubro de 2024	D
+3	R$ 352.828,00	SCANIA	G-480 A 6x4 2p (diesel) (E5)	2016	Diesel	513241-0	outubro de 2024	D
+3	R$ 474.446,00	VOLVO	FH-540 GLOBETROTTER 6x4 2p (diesel) (E5)	2016	Diesel	516152-5	outubro de 2024	D
+3	R$ 364.255,00	DAF	XF 105 FTS 460 6x2 (diesel)(E5)	2019	Diesel	530002-9	outubro de 2024	D
+3	R$ 420.409,00	MERCEDES-BENZ	Actros 2651 LS 6x4 2p (diesel)(E5)	2019	Diesel	509313-9	outubro de 2024	D
+3	R$ 507.604,00	DAF	CF FTT 480 6X4 Sleeper Cab (Die)(E5)	2022	Diesel	530030-4	outubro de 2024	D
+3	R$ 798.730,00	VOLVO	FH-540 GLOBETROTTER 6x4 2p (diesel) (E5)	2022	Diesel	516152-5	outubro de 2024	D
+3	R$ 367.972,00	VOLKSWAGEN	23-230 Constellat. 3-Eixos (diesel)(E5)	2023	Diesel	515160-0	outubro de 2024	D
+3	R$ 917.201,00	VOLVO	FH-540 6X4 2p (diesel) (E6)	2024	Diesel	516213-0	outubro de 2024	D
+3	R$ 973.136,00	VOLVO	FH-540 GLOBETROTTER 6X4 2p (diesel) (E6)	2024	Diesel	516248-3	outubro de 2024	D
+3	R$ 852.525,00	DAF	XF FTT530 6x4 Space Cab (Diesel)(E6)	2024	Diesel	530059-2	outubro de 2024	D
+3	R$ 399.854,00	MERCEDES-BENZ	Atego 1719 4x2 2p (diesel)(E6)	2023	Diesel	509338-4	outubro de 2024	D
+3	R$ 147.927,00	FORD	CARGO 1722/ 1722 E T 3-Eixos 2p (diesel)	2010	Diesel	504091-4	outubro de 2024	D
+3	R$ 211.495,00	IVECO	TECTOR 240E28S STRADALE 6x2 2p(dies)(E5)	2013	Diesel	506091-5	outubro de 2024	D
+3	R$ 146.596,00	VOLVO	VM 260 6x2 2p (diesel)	2007	Diesel	516090-1	outubro de 2024	D
+3	R$ 227.369,00	FORD	CARGO 2428 E T 3-Eixos 2p (diesel)	2012	Diesel	504113-9	outubro de 2024	D
+3	R$ 111.859,00	IVECO	EUROCARGO/ATTACK 170-E22 2p (diesel)	2011	Diesel	506018-4	outubro de 2024	D
+3	R$ 80.785,00	IVECO	EUROCARGO 170-E22 3-Eixos 2p (diesel)	2008	Diesel	506019-2	outubro de 2024	D
+3	R$ 171.166,00	IVECO	TECTOR 240E28S STRADALE 6x2 2p(dies)(E5)	2012	Diesel	506091-5	outubro de 2024	D
+3	R$ 157.319,00	VOLVO	VM 260 6x2 2p (diesel)	2008	Diesel	516090-1	outubro de 2024	D
+3	R$ 69.184,00	IVECO	EUROCARGO/ATTACK 170-E22 2p (diesel)	2006	Diesel	506018-4	outubro de 2024	D
+3	R$ 77.739,00	IVECO	EUROCARGO 170-E22 3-Eixos 2p (diesel)	2007	Diesel	506019-2	outubro de 2024	D
+3	R$ 167.541,00	MERCEDES-BENZ	L-1620 3-Eixos 2p (diesel)	2004	Diesel	509084-9	outubro de 2024	D
+3	R$ 96.308,00	FORD	F-350 TROPICAMPO CD 2.8 (diesel)(E5)	2016	Diesel	504154-6	outubro de 2024	D
+3	R$ 421.999,00	SCANIA	G-440 A 6x4 2p (diesel) (E5)	2019	Diesel	513240-1	outubro de 2024	D
+3	R$ 337.074,00	MERCEDES-BENZ	Axor 3344 S 6x4 2p (diesel) (E5)	2018	Diesel	509271-0	outubro de 2024	D
+3	R$ 316.421,00	MERCEDES-BENZ	Accelo 1316 6x2 2p (diesel)(E5)	2020	Diesel	509311-2	outubro de 2024	D
+3	R$ 516.838,00	MERCEDES-BENZ	Atego 3030 8x2 2p (diesel)(E5)	2020	Diesel	509319-8	outubro de 2024	D
+3	R$ 281.673,00	MERCEDES-BENZ	Atego 1719 2p (diesel) (E5)	2020	Diesel	509281-7	outubro de 2024	D
+3	R$ 440.147,00	MERCEDES-BENZ	Axor 3344 S 6x4 2p (diesel) (E5)	2021	Diesel	509271-0	outubro de 2024	D
+3	R$ 428.121,00	MERCEDES-BENZ	Atego 3030 8x2 2p (diesel)(E5)	2019	Diesel	509319-8	outubro de 2024	D
+3	R$ 392.899,00	MERCEDES-BENZ	Atego 2426 6x2 2p (diesel) (E5)	2019	Diesel	509284-1	outubro de 2024	D
+3	R$ 559.411,00	VOLVO	FH-540 GLOBETROTTER 6x4 2p (diesel) (E5)	2019	Diesel	516152-5	outubro de 2024	D
+3	R$ 328.331,00	DAF	XF 105 FT 460 4x2 (diesel)(E5)	2018	Diesel	530011-8	outubro de 2024	D
+3	R$ 362.267,00	DAF	XF 105 FT 460 4x2 (diesel)(E5)	2019	Diesel	530011-8	outubro de 2024	D
+3	R$ 373.044,00	MERCEDES-BENZ	Actros 2546 LS 6x2 2p (diesel) (E5)	2019	Diesel	509269-8	outubro de 2024	D
+3	R$ 328.852,00	MERCEDES-BENZ	Axor 3344 S 6x4 2p (diesel) (E5)	2017	Diesel	509271-0	outubro de 2024	D
+3	R$ 720.725,00	SCANIA	G-540 A 6x4 2p (diesel)(E5)	2022	Diesel	513293-2	outubro de 2024	D
+3	R$ 376.089,00	JAC	iEV 1200T PLUS R (Elétrico)	2022	Diesel	525002-1	outubro de 2024	D
+3	R$ 304.402,00	JAC	iEV 1200T (Elétrico)	2022	Diesel	525001-3	outubro de 2024	D
+3	R$ 782.669,00	SCANIA	G-540 A 6x4 2p (diesel)(E5)	2023	Diesel	513293-2	outubro de 2024	D
+3	R$ 344.868,00	MERCEDES-BENZ	Accelo 1316 6x2 2p (diesel)(E5)	2022	Diesel	509311-2	outubro de 2024	D
+3	R$ 153.472,00	IVECO	EUROCARGO/ATTACK 230-E24 3-E. 2p (dies.)	2012	Diesel	506040-0	outubro de 2024	D
+3	R$ 282.778,00	SCANIA	G-440 A 6x4 2p (diesel) (E5)	2012	Diesel	513240-1	outubro de 2024	D
+3	R$ 113.604,00	FORD	F-350 2p (diesel)	2011	Diesel	504073-6	outubro de 2024	D
+3	R$ 216.013,00	VOLVO	FH 400 4x2 2p (diesel)	2011	Diesel	516094-4	outubro de 2024	D
+3	R$ 146.473,00	FORD	CARGO 1932 E Turbo 2p (diesel)	2012	Diesel	504132-5	outubro de 2024	D
+3	R$ 205.184,00	MERCEDES-BENZ	L-1620 3-Eixos 2p (diesel)	2007	Diesel	509084-9	outubro de 2024	D
+3	R$ 116.021,00	MERCEDES-BENZ	710/ 710 Plus 2p (diesel)	2006	Diesel	509032-6	outubro de 2024	D
+3	R$ 228.254,00	VOLVO	FH 440 6x2 2p (diesel)	2011	Diesel	516104-5	outubro de 2024	D
+3	R$ 225.455,00	VOLKSWAGEN	17-190 E Worker 2p (diesel)(E5)	2016	Diesel	515148-1	outubro de 2024	D
+3	R$ 352.472,00	VOLKSWAGEN	31-330 E Constel. 6x4 2p (diesel)(E5)	2016	Diesel	515146-5	outubro de 2024	D
+3	R$ 417.679,00	MERCEDES-BENZ	Atego 3030 8x2 2p (diesel)(E5)	2018	Diesel	509319-8	outubro de 2024	D
+3	R$ 222.538,00	VOLKSWAGEN	13-160 E Delivery 6x2 2p (diesel)(E5)	2019	Diesel	515162-7	outubro de 2024	D
+3	R$ 125.856,00	MERCEDES-BENZ	710/ 710 Plus 2p (diesel)	2009	Diesel	509032-6	outubro de 2024	D
+3	R$ 129.003,00	MERCEDES-BENZ	710/ 710 Plus 2p (diesel)	2010	Diesel	509032-6	outubro de 2024	D
+3	R$ 122.784,00	MERCEDES-BENZ	710/ 710 Plus 2p (diesel)	2008	Diesel	509032-6	outubro de 2024	D
+3	R$ 355.266,00	VOLVO	VM 270 6x2 2p (diesel) (E5)	2021	Diesel	516144-4	outubro de 2024	D
+3	R$ 840.342,00	VOLVO	FH-460 GLOBETROTTER 6X2 2p (diesel) (E6)	2023	Diesel	516201-7	outubro de 2024	D
+3	R$ 323.550,00	SCANIA	R-440 A 6x4 HIGH./STRE. 2p (diesel) (E5)	2013	Diesel	513226-6	outubro de 2024	D
+3	R$ 300.922,00	MERCEDES-BENZ	Atego 2426 6x2 2p (diesel) (E5)	2016	Diesel	509284-1	outubro de 2024	D
+3	R$ 212.762,00	IVECO	STRALIS 490-S44T TA 2p (diesel)(E5)	2015	Diesel	506100-8	outubro de 2024	D
+3	R$ 255.590,00	VOLVO	FH 520 6x4 2p (diesel)	2011	Diesel	516116-9	outubro de 2024	D
+3	R$ 196.324,00	MERCEDES-BENZ	L-1620 3-Eixos 2p (diesel)	2006	Diesel	509084-9	outubro de 2024	D
+3	R$ 196.521,00	FORD	CARGO 2422/ 2422 E 3-Eixos 2p (diesel)	2009	Diesel	504045-0	outubro de 2024	D
+3	R$ 344.988,00	DAF	XF 105 FTS 460 6x2 (diesel)(E5)	2018	Diesel	530002-9	outubro de 2024	D
+3	R$ 367.390,00	MERCEDES-BENZ	Atego 2426 6x2 2p (diesel) (E5)	2018	Diesel	509284-1	outubro de 2024	D
+3	R$ 347.935,00	DAF	XF 105 FTT 510 6x4 (diesel)(E5)	2018	Diesel	530004-5	outubro de 2024	D
+3	R$ 402.664,00	SCANIA	G-480 A 6x4 2p (diesel) (E5)	2018	Diesel	513241-0	outubro de 2024	D
+3	R$ 747.449,00	IVECO	S-WAY 480 6x2 (diesel)(E6)	2024	Diesel	506172-5	outubro de 2024	D
+3	R$ 95.901,00	FORD	CARGO 1717/ 1717 E Turbo 2p (diesel)	2009	Diesel	504099-0	outubro de 2024	D
+3	R$ 130.241,00	FORD	CARGO 1517 Turbo 2p (diesel)	2010	Diesel	504030-2	outubro de 2024	D
+3	R$ 154.097,00	MERCEDES-BENZ	Atego 1718 3-Eixos 2p (diesel)	2011	Diesel	509237-0	outubro de 2024	D
+3	R$ 195.064,00	VOLVO	FH 400 4x2 2p (diesel)	2010	Diesel	516094-4	outubro de 2024	D
+3	R$ 118.529,00	MERCEDES-BENZ	Axor 1933 S 2p (diesel)	2006	Diesel	509241-8	outubro de 2024	D
+3	R$ 117.183,00	FORD	CARGO 1717/ 1717 E Turbo 2p (diesel)	2011	Diesel	504099-0	outubro de 2024	D
+3	R$ 334.228,00	SCANIA	G-480 A 6x4 2p (diesel) (E5)	2015	Diesel	513241-0	outubro de 2024	D
+3	R$ 416.718,00	VOLVO	FH-460 GLOBETROTTER 6x2 2p (diesel) (E5)	2016	Diesel	516155-0	outubro de 2024	D
+3	R$ 165.195,00	MERCEDES-BENZ	Atron 2729 K 6x4 2p (diesel) (E5)	2013	Diesel	509289-2	outubro de 2024	D
+3	R$ 316.521,00	VOLKSWAGEN	13-180 Delivery 6x2 2p (diesel)(E5)	2023	Diesel	515172-4	outubro de 2024	D
+3	R$ 64.652,00	MERCEDES-BENZ	1218 2p (diesel)	1997	Diesel	509006-7	outubro de 2024	D
+3	R$ 85.998,00	VOLKSWAGEN	13-180/13-180 E Worker 3-Eixos 2p (die.)	2002	Diesel	515071-0	outubro de 2024	D
+3	R$ 120.091,00	MERCEDES-BENZ	L-1318 3-Eixos 2p (diesel)	2006	Diesel	509058-0	outubro de 2024	D
+3	R$ 221.580,00	VOLVO	FH 440 6x2 2p (diesel)	2010	Diesel	516104-5	outubro de 2024	D
+3	R$ 495.568,00	VOLVO	FH-540 GLOBETROTTER 6x4 2p (diesel) (E5)	2017	Diesel	516152-5	outubro de 2024	D
+3	R$ 301.270,00	MERCEDES-BENZ	Accelo 1316 6x2 2p (diesel)(E5)	2019	Diesel	509311-2	outubro de 2024	D
+3	R$ 332.521,00	SCANIA	G-440 A 6x4 2p (diesel) (E5)	2015	Diesel	513240-1	outubro de 2024	D
+3	R$ 307.047,00	MERCEDES-BENZ	Atego 1719 2p (diesel) (E5)	2021	Diesel	509281-7	outubro de 2024	D
+3	R$ 238.866,00	VOLKSWAGEN	13-180 Delivery 6x2 2p (diesel)(E5)	2020	Diesel	515172-4	outubro de 2024	D
+3	R$ 393.345,00	VOLKSWAGEN	30-280 Constellation 8x2 2p (diesel)(E5)	2020	Diesel	515171-6	outubro de 2024	D
+3	R$ 300.828,00	VOLVO	FH-460 6x4 2p (diesel) (E5)	2014	Diesel	516172-0	outubro de 2024	D
+3	R$ 644.521,00	SCANIA	G-540 A 6x4 2p (diesel)(E5)	2021	Diesel	513293-2	outubro de 2024	D
+3	R$ 690.799,00	VOLVO	FH-540 GLOBETROTTER 6x4 2p (diesel) (E5)	2021	Diesel	516152-5	outubro de 2024	D
+3	R$ 602.202,00	VOLVO	FH-460 GLOBETROTTER 6x2 2p (diesel) (E5)	2021	Diesel	516155-0	outubro de 2024	D
+3	R$ 601.212,00	VOLVO	FH-460 GLOBETROTTER 4x2 2p (diesel) (E5)	2021	Diesel	516163-0	outubro de 2024	D
+3	R$ 65.494,00	VOLKSWAGEN	16-220 Turbo 2p (diesel)	1998	Diesel	515044-2	outubro de 2024	D
+3	R$ 111.232,00	VOLVO	FH-12 380 GLOBETROTTER 4x2 2p (diesel)	2001	Diesel	516011-1	outubro de 2024	D
+3	R$ 54.392,00	FORD	CARGO 1215 2p (diesel)	1998	Diesel	504011-6	outubro de 2024	D
+3	R$ 103.131,00	MERCEDES-BENZ	1720 3-Eixos 2p (diesel)	2000	Diesel	509017-2	outubro de 2024	D
+3	R$ 136.103,00	MERCEDES-BENZ	L-1418 3-Eixos 2p (diesel)	2000	Diesel	509064-4	outubro de 2024	D
+3	R$ 120.065,00	MERCEDES-BENZ	LK-1620 3-Eixos 2p (diesel)	1996	Diesel	509206-0	outubro de 2024	D
+3	R$ 213.455,00	VOLKSWAGEN	17-190 E Worker 2p (diesel)(E5)	2015	Diesel	515148-1	outubro de 2024	D
+3	R$ 210.314,00	VOLKSWAGEN	10-160 E Delivery Plus 6x2 (diesel)(E5)	2015	Diesel	515158-9	outubro de 2024	D
+3	R$ 155.126,00	VOLKSWAGEN	23-230 Worker 3-Eixos 2p (diesel)(E5)	2014	Diesel	515157-0	outubro de 2024	D
+3	R$ 321.201,00	VOLKSWAGEN	17-190 E Constellation 2p (diesel)(E5)	2020	Diesel	515135-0	outubro de 2024	D
+3	R$ 332.522,00	VOLKSWAGEN	23-230 Constellat. 3-Eixos (diesel)(E5)	2021	Diesel	515160-0	outubro de 2024	D
+3	R$ 220.180,00	IVECO	TECTOR 11-190 4x2 (diesel)(E5)	2020	Diesel	506161-0	outubro de 2024	D
+3	R$ 531.217,00	VOLVO	FH-420 4x2 2p (diesel) (E5)	2021	Diesel	516160-6	outubro de 2024	D
+3	R$ 344.943,00	MERCEDES-BENZ	Atego 1719 2p (diesel) (E5)	2022	Diesel	509281-7	outubro de 2024	D
+3	R$ 391.559,00	VOLVO	VM 270 6x2 2p (diesel) (E5)	2022	Diesel	516144-4	outubro de 2024	D
+3	R$ 203.422,00	VOLVO	VM 220 4x2 2p (diesel) (E5)	2015	Diesel	516142-8	outubro de 2024	D
+3	R$ 232.955,00	VOLVO	VM 270 6x2 2p (diesel) (E5)	2015	Diesel	516144-4	outubro de 2024	D
+3	R$ 786.118,00	SCANIA	R-540 A 6x4 2p (diesel)(E5)	2023	Diesel	513289-4	outubro de 2024	D
+3	R$ 465.234,00	VOLVO	FH-460 GLOBETROTTER 6x2 2p (diesel) (E5)	2018	Diesel	516155-0	outubro de 2024	D
+3	R$ 221.305,00	VOLVO	FH 400 6x2 2p (diesel)	2011	Diesel	516102-9	outubro de 2024	D
+3	R$ 248.854,00	MERCEDES-BENZ	Atego 1719 2p (diesel) (E5)	2016	Diesel	509281-7	outubro de 2024	D
+3	R$ 247.541,00	MERCEDES-BENZ	Atron 1719 2p (diesel)(E5)	2016	Diesel	509303-1	outubro de 2024	D
+3	R$ 237.273,00	VOLKSWAGEN	17-190 E Worker 2p (diesel)(E5)	2018	Diesel	515148-1	outubro de 2024	D
+3	R$ 176.521,00	VOLKSWAGEN	23-230 Worker 3-Eixos 2p (diesel)(E5)	2018	Diesel	515157-0	outubro de 2024	D
+3	R$ 161.521,00	VOLKSWAGEN	23-230 Worker 3-Eixos 2p (diesel)(E5)	2015	Diesel	515157-0	outubro de 2024	D
+3	R$ 254.994,00	VOLKSWAGEN	24-280 E Constel. 6x2 2p (diesel)(E5)	2015	Diesel	515141-4	outubro de 2024	D
+3	R$ 212.021,00	VOLKSWAGEN	13-160 E Delivery 6x2 2p (diesel)(E5)	2018	Diesel	515162-7	outubro de 2024	D
+3	R$ 329.392,00	VOLKSWAGEN	17-190 E Constellation 2p (diesel)(E5)	2021	Diesel	515135-0	outubro de 2024	D
+3	R$ 495.223,00	DAF	CF FTT 480 6X4 Sleeper Cab (Die)(E5)	2021	Diesel	530030-4	outubro de 2024	D
+3	R$ 481.553,00	MERCEDES-BENZ	Atego 3330 B 8x4 2p (diesel)(E5)	2022	Diesel	509332-5	outubro de 2024	D
+3	R$ 252.384,00	VOLVO	FM 480 6x4 2p (diesel)	2011	Diesel	516120-7	outubro de 2024	D
+3	R$ 942.774,00	VOLVO	FH-540 GLOBETROTTER 6X4 2p (diesel) (E6)	2023	Diesel	516248-3	outubro de 2024	D
+3	R$ 462.874,00	VOLVO	FH-540 GLOBETROTTER 6x4 2p (diesel) (E5)	2015	Diesel	516152-5	outubro de 2024	D
+3	R$ 539.246,00	VOLVO	FH-540 GLOBETROTTER 6x4 2p (diesel) (E5)	2018	Diesel	516152-5	outubro de 2024	D
+3	R$ 671.501,00	VOLVO	FH-540 GLOBETROTTER 6x4 2p (diesel) (E5)	2020	Diesel	516152-5	outubro de 2024	D
+3	R$ 80.509,00	VOLVO	FM-10 320 4x2 2p (diesel)	2000	Diesel	516067-7	outubro de 2024	D
+3	R$ 269.854,00	MERCEDES-BENZ	Atego 1719 2p (diesel) (E5)	2019	Diesel	509281-7	outubro de 2024	D
+3	R$ 128.814,00	VOLKSWAGEN	17-180 Worker 2p (diesel)	2008	Diesel	515108-2	outubro de 2024	D
+3	R$ 275.349,00	VOLVO	FH-460 GLOBETROTTER 6x2 2p (diesel) (E5)	2013	Diesel	516155-0	outubro de 2024	D
+3	R$ 166.186,00	VOLKSWAGEN	9-150 E Delivery 2p (diesel)	2011	Diesel	515127-9	outubro de 2024	D
+3	R$ 445.449,00	VOLVO	FH-460 GLOBETROTTER 6x2 2p (diesel) (E5)	2017	Diesel	516155-0	outubro de 2024	D
+3	R$ 354.376,00	MAN	TGX 28.440 6x2 2p (diesel)(E5)	2020	Diesel	524002-6	outubro de 2024	D
+3	R$ 689.901,00	VOLVO	FH-460 GLOBETROTTER 6x2 2p (diesel) (E5)	2022	Diesel	516155-0	outubro de 2024	D
+3	R$ 551.825,00	IVECO	STRALIS HI-ROAD 600S44T 6x2 (dies.)(E5)	2023	Diesel	506159-8	outubro de 2024	D
+3	R$ 513.877,00	MERCEDES-BENZ	Atego 2426 6x2 2p (diesel) (E5)	2022	Diesel	509284-1	outubro de 2024	D
+3	R$ 571.332,00	MERCEDES-BENZ	Axor 2544 S/LS 6x2 2p (diesel) (E5)	2022	Diesel	509275-2	outubro de 2024	D
+3	R$ 450.734,00	MERCEDES-BENZ	Atego 2426 6x2 2p (diesel) (E5)	2020	Diesel	509284-1	outubro de 2024	D
+3	R$ 343.165,00	VOLKSWAGEN	23-230 Constellat. 3-Eixos (diesel)(E5)	2022	Diesel	515160-0	outubro de 2024	D
+3	R$ 305.210,00	VOLKSWAGEN	13-180 Delivery 6x2 2p (diesel)(E5)	2022	Diesel	515172-4	outubro de 2024	D
+3	R$ 339.854,00	VOLKSWAGEN	17-190 E Constellation 2p (diesel)(E5)	2022	Diesel	515135-0	outubro de 2024	D
+3	R$ 369.217,00	MERCEDES-BENZ	Axor 2541 S/LS 6x2 2p (diesel) (E5)	2019	Diesel	509295-7	outubro de 2024	D
+3	R$ 140.992,00	VOLKSWAGEN	17-180 Worker 2p (diesel)	2009	Diesel	515108-2	outubro de 2024	D
+3	R$ 178.216,00	VOLKSWAGEN	24-220/24-220 Worker T 3-Eixos 2p (die.)	2011	Diesel	515050-7	outubro de 2024	D
+3	R$ 165.811,00	VOLKSWAGEN	17-180 Worker 2p (diesel)	2010	Diesel	515108-2	outubro de 2024	D
+3	R$ 171.036,00	VOLKSWAGEN	17-180 Worker 2p (diesel)	2011	Diesel	515108-2	outubro de 2024	D
+3	R$ 574.024,00	VOLKSWAGEN	Meteor 28.480 6x2 2p (diesel)(E6)	2023	Diesel	515200-3	outubro de 2024	D
+3	R$ 325.451,00	VOLKSWAGEN	19-330 E Constellation 2p (diesel)(E5)	2020	Diesel	515138-4	outubro de 2024	D
+3	R$ 366.744,00	VOLKSWAGEN	17-190 E Constellation 2p (diesel)(E5)	2023	Diesel	515135-0	outubro de 2024	D
+3	R$ 386.996,00	VOLKSWAGEN	25-420 Constellation 6x2 2p (Diesel)(E5)	2020	Diesel	515153-8	outubro de 2024	D
+3	R$ 483.961,00	VOLKSWAGEN	Meteor 29.520 6x4 2p (diesel)(E5)	2022	Diesel	515178-3	outubro de 2024	D
+3	R$ 308.276,00	VOLVO	VM 330 4x2 2p (diesel) (E5)	2020	Diesel	516143-6	outubro de 2024	D
+3	R$ 603.853,00	SCANIA	R-450 A 6x4 2p (diesel)(E5)	2020	Diesel	513273-8	outubro de 2024	D
+3	R$ 390.340,00	DAF	XF 105 FTS 460 6x2 (diesel)(E5)	2020	Diesel	530002-9	outubro de 2024	D
+3	R$ 399.350,00	IVECO	STRALIS HI-ROAD 600S44T 6x2 (dies.)(E5)	2020	Diesel	506159-8	outubro de 2024	D
+3	R$ 644.780,00	SCANIA	R-450 A 8x2 2p (diesel)(E5)	2022	Diesel	513303-3	outubro de 2024	D
+3	R$ 370.306,00	MAN	TGX 29.480 6x4 2p (diesel)(E5)	2020	Diesel	524003-4	outubro de 2024	D
+3	R$ 246.518,00	VOLVO	VM 220 4x2 2p (diesel) (E5)	2020	Diesel	516142-8	outubro de 2024	D
