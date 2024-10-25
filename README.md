@@ -1,35 +1,31 @@
-# Consulta FIPE
+# FIPE Query System
 
-Este projeto foi desenvolvido para automatizar o processo de consulta de informações de caminhões através da API FIPE Parallelum. O sistema realiza múltiplas requisições para diversas URLs e salva os dados obtidos em um arquivo Excel, facilitando a análise e gestão das informações.
+This project was developed to automate the process of retrieving truck information via the FIPE Parallelum API. The system makes multiple requests to various URLs and saves the obtained data to an Excel file, facilitating data analysis and management.
 
-Na empresa em que trabalho, lidamos com uma grande quantidade de veículos e suas respectivas placas. Para automatizar o processo de consulta e obter dados relevantes de cada veículo, desenvolvi uma solução que consiste em:
+In the company where I work, we handle a large volume of vehicles and their respective plates. To streamline the query process and gather relevant data for each vehicle, I developed a solution that includes:
 
-Automatização no Site Busca Placas: Utilizei automação para acessar o site Busca Placas, ler as placas dos veículos da empresa e salvar as respostas obtidas em um arquivo Excel.
-Manipulação dos Dados via Excel: Através de querys no Excel, separei as informações como marca, modelo e ano-combustível de cada veículo.
-Geração de URLs para a API FIPE: Com base nas informações extraídas, gerei as URLs adequadas para fazer requisições à API FIPE e consultar os dados detalhados de cada caminhão.
+- **Automated Plate Lookup**: Automated access to the Busca Placas website, reading vehicle plates from the company and saving responses to an Excel file.
+- **Data Handling via Excel**: Using queries in Excel, I separated information like make, model, and year-fuel type for each vehicle.
+- **URL Generation for the FIPE API**: Based on extracted data, I generated URLs to query the FIPE API and retrieve detailed information for each truck.
 
-FUNCIONALIDADES PRINCIPAIS
+**KEY FEATURES**
 
-1. Requisições Automáticas à API FIPE
-O sistema realiza requisições automáticas para a API FIPE a partir de uma lista de URLs geradas com base nas informações dos veículos (marca, modelo, ano e combustível).
+1. **Automated Requests to the FIPE API**  
+   The system automatically queries the FIPE API from a list of URLs generated based on vehicle details (make, model, year, and fuel type).
 
-2. Backoff Exponencial com Re-tentativas
-Para evitar bloqueios por limite de requisições, o sistema implementa um mecanismo de re-tentativa com backoff exponencial. Quando o limite de taxa é excedido, o sistema espera um tempo antes de tentar novamente.
+2. **Exponential Backoff with Retry Mechanism**  
+   To avoid request rate limits, the system implements a retry mechanism with exponential backoff. When the rate limit is exceeded, the system waits before retrying.
 
-3. Exportação para Excel
-Os dados obtidos pela API FIPE são organizados e exportados para um arquivo Excel. Isso permite uma fácil análise e armazenamento das informações de todos os caminhões.
+3. **Excel Export**  
+   Data obtained from the FIPE API is organized and exported to an Excel file, enabling easy analysis and storage of truck information.
 
-TECNOLOGIAS UTILIZADAS
+**TECHNOLOGIES USED**
 
-1. Python: Linguagem principal utilizada para automação e manipulação de dados.
+1. **Python**: Main language used for automation and data handling.
+2. **Requests**: Used for making HTTP requests to the FIPE API.
+3. **Pandas**: Library used for data manipulation and export to Excel.
+4. **Excel**: Used to store and organize extracted vehicle information.
 
-2. Requests: Utilizado para fazer requisições HTTP à API FIPE.
+**CONCLUSION**
 
-3. Pandas: Biblioteca utilizada para manipulação de dados e exportação para Excel.
-
-4. Excel: Utilizado para armazenar as informações extraídas e organizadas dos veículos.
-
-
-CONCLUSÃO
-
-Este projeto oferece uma solução eficiente para consultar dados de veículos na API FIPE em larga escala, automatizando o processo de requisição e exportação dos dados para Excel. Com a implementação de re-tentativas automáticas e backoff exponencial, o sistema garante uma execução robusta e confiável, mesmo em cenários de alta carga de requisições.
+This project provides an efficient solution for querying large-scale vehicle data via the FIPE API, automating the data request and export process to Excel. With automatic retries and exponential backoff, the system ensures robust and reliable execution, even under high request loads.
