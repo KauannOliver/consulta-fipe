@@ -1,31 +1,69 @@
-# FIPE Query System
+# **FIPE Query System**
 
-This project was developed to automate the process of retrieving truck information via the FIPE Parallelum API. The system makes multiple requests to various URLs and saves the obtained data to an Excel file, facilitating data analysis and management.
+This project automates the retrieval of truck data via the FIPE Parallelum API, streamlining vehicle information management. By making automated API requests and organizing the results in Excel, it ensures efficient handling of large-scale vehicle data for analysis and storage.
 
-In the company where I work, we handle a large volume of vehicles and their respective plates. To streamline the query process and gather relevant data for each vehicle, I developed a solution that includes:
+---
 
-- **Automated Plate Lookup**: Automated access to the Busca Placas website, reading vehicle plates from the company and saving responses to an Excel file.
-- **Data Handling via Excel**: Using queries in Excel, I separated information like make, model, and year-fuel type for each vehicle.
-- **URL Generation for the FIPE API**: Based on extracted data, I generated URLs to query the FIPE API and retrieve detailed information for each truck.
+## **KEY FEATURES**
 
-**KEY FEATURES**
+### 1. **Automated Requests to the FIPE API**
+   - Queries the FIPE API using a list of dynamically generated URLs based on vehicle details, including make, model, year, and fuel type.
+   - Retrieves detailed information for each truck with minimal manual intervention.
 
-1. **Automated Requests to the FIPE API**  
-   The system automatically queries the FIPE API from a list of URLs generated based on vehicle details (make, model, year, and fuel type).
+### 2. **Exponential Backoff with Retry Mechanism**
+   - Implements a retry mechanism with exponential backoff to handle rate limits and ensure successful data retrieval.
+   - Automatically waits and retries when the API rate limit is exceeded, ensuring smooth operation.
 
-2. **Exponential Backoff with Retry Mechanism**  
-   To avoid request rate limits, the system implements a retry mechanism with exponential backoff. When the rate limit is exceeded, the system waits before retrying.
+### 3. **Excel Export**
+   - Organizes the data obtained from the FIPE API into a structured Excel file.
+   - Facilitates further analysis, reporting, and storage.
 
-3. **Excel Export**  
-   Data obtained from the FIPE API is organized and exported to an Excel file, enabling easy analysis and storage of truck information.
+---
 
-**TECHNOLOGIES USED**
+## **ADDITIONAL FEATURES IN THE WORKFLOW**
 
-1. **Python**: Main language used for automation and data handling.
-2. **Requests**: Used for making HTTP requests to the FIPE API.
-3. **Pandas**: Library used for data manipulation and export to Excel.
-4. **Excel**: Used to store and organize extracted vehicle information.
+### 1. **Automated Plate Lookup**
+   - Uses the *Busca Placas* website to fetch vehicle data based on license plates provided by the company.
+   - Saves responses to an Excel file for further processing.
 
-**CONCLUSION**
+### 2. **Data Handling via Excel**
+   - Extracts vehicle details such as make, model, year, and fuel type from the plate lookup data.
+   - Generates FIPE API query URLs based on the extracted information.
 
-This project provides an efficient solution for querying large-scale vehicle data via the FIPE API, automating the data request and export process to Excel. With automatic retries and exponential backoff, the system ensures robust and reliable execution, even under high request loads.
+---
+
+## **TECHNOLOGIES USED**
+
+### 1. **Python**
+   - Core programming language for automating API requests and data handling.
+
+### 2. **Requests**
+   - Handles HTTP requests to interact with the FIPE API.
+
+### 3. **Pandas**
+   - Processes and manipulates data before exporting it to Excel.
+
+### 4. **Excel**
+   - Serves as the primary format for organizing and storing retrieved vehicle data.
+
+---
+
+## **HOW IT WORKS**
+
+1. **Plate Data Collection**
+   - The system accesses the *Busca Placas* website, automating plate lookups and saving the responses in an Excel file.
+
+2. **URL Generation**
+   - Extracted data such as make, model, year, and fuel type is used to generate URLs for querying the FIPE API.
+
+3. **Data Retrieval**
+   - The system sends requests to the FIPE API, retrieves truck data, and implements retries with exponential backoff if rate limits are encountered.
+
+4. **Excel Export**
+   - Retrieved data is structured and exported to an Excel file, enabling easy analysis and record-keeping.
+
+---
+
+## **CONCLUSION**
+
+The **FIPE Query System** is a robust tool for managing large-scale vehicle data. By automating plate lookups, FIPE API requests, and data exports, it eliminates manual work, reduces errors, and ensures efficient handling of detailed truck information. Its retry mechanism with exponential backoff ensures reliability under high workloads, making it an indispensable tool for companies managing vehicle fleets.
